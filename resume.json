@@ -1,0 +1,223 @@
+{
+	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+	"basics": {
+		"name": "Zachariah Watson",
+		"label": "Web Developer | Generative Artist",
+		"image": "",
+		"email": "watsonzachariah@gmail.com",
+		"phone": "(816) 507-9821",
+		"url": "https://zachariahwatson.com/",
+		"summary": "Zach is from Kansas City, Missouri. After completing his degree at Northwest Missouri State University, he found success as an independent artist working with math, JavaScript and GLSL. He is eager to dive into the field of professional web development having created multiple projects that utilize popular frontend/backend frameworks coupled with auth, databases, and edge functions.",
+		"location": {
+			"city": "Kansas City",
+			"countryCode": "US",
+			"region": "Missouri"
+		},
+		"profiles": [
+			{
+				"network": "GitHub",
+				"username": "zachariahwatson",
+				"url": "https://github.com/zachariahwatson"
+			},
+			{
+				"network": "X",
+				"username": "zchwtsn",
+				"url": "https://x.com/zchwtsn"
+			},
+			{
+				"network": "Instagram",
+				"username": "zchwtsn",
+				"url": "https://www.instagram.com/zchwtsn"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Art Blocks",
+			"location": "Marfa, TX",
+			"description": "Generative art platform",
+			"position": "Generative Artist",
+			"url": "https://zchwtsn.com/",
+			"startDate": "2022-09-23",
+			"summary": "Art Blocks is a digital platform where generative artists publish unique artworks using creative code.",
+			"highlights": [
+				"Develop algorithmic art projects with infinitely unique deterministic outputs",
+				"Utilize JavaScript Canvas API, p5.js, GLSL, and SVG",
+				"Create interactive exhibits using web frameworks such as Next.js",
+				"Collaborate with print shops to send physical artwork to collectors",
+				"Donate a percentage of proceeds during auctions to charities"
+			]
+		},
+		{
+			"name": "Kawasaki Motors",
+			"location": "Maryville, MO",
+			"description": "Engine production facility",
+			"position": "Information Systems Intern",
+			"url": "https://zachariahwatson.com/projects/kawasaki",
+			"startDate": "2021-06-02",
+			"endDate": "2021-08-02",
+			"summary": "KMM Maryville is the primary General Purpose Engine production facility for Kawasaki. Their premium quality engines can be found in lawn and garden equipment produced by manufacturers across the industry.",
+			"highlights": [
+				"Created web-based program to improve extra parts packaging production",
+				"Integrated program into existing ERP system while ensuring data traceability",
+				"Used Visual LANSA, JavaScript, CSS, and SQL",
+				"Learned how to apply existing knowledge to learn new coding languages",
+				"Improved database design and UX practices"
+			]
+		},
+		{
+			"name": "Knacktive",
+			"location": "Maryville, MO",
+			"description": "Student-run full-service agency",
+			"position": "Graphic Designer",
+			"url": "https://zachariahwatson.com/projects/knacktive",
+			"startDate": "2021-01-02",
+			"endDate": "2021-04-02",
+			"summary": "Knacktive is an interdisciplinary student-run, full-service agency with students from the School of Communication and Mass Media, the Melvin D. and Valorie G. Booth School of Business, the Department of Fine and Performing Arts, and the School of Computer Science and Information Systems.",
+			"highlights": [
+				"Created logo and brand identity for client using Adobe Illustrator, Photoshop, and Premiere",
+				"Created website mock-up using Adobe XD",
+				"Experienced competitive marketing process with seven other team members",
+				"Obtained ability to work as a team under deadlines"
+			]
+		},
+		{
+			"name": "A & M Amusements",
+			"location": "Maryville, MO",
+			"description": "Inflatable rental site",
+			"position": "Web Developer",
+			"url": "https://zachariahwatson.com/projects/amamusements",
+			"startDate": "2019-03-02",
+			"endDate": "2020-01-02",
+			"summary": "A & M Amusements is an inflatable rental company for parties or events.",
+			"highlights": [
+				"Assembled new web pages, coded new website functions using HTML, CSS, and JavaScript",
+				"Created initial site in WordPress",
+				"Maintained consistent site style, edited product images in Photoshop",
+				"Learned how to effectively communicate with a client",
+				"Originally was a project in my Web Development I class — client hired my group"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Northwest Missouri State University",
+			"url": "https://www.nwmissouri.edu/",
+			"area": "Digital Media: Computer Science",
+			"studyType": "Bachelor",
+			"score": "3.85",
+			"startDate": "2018-10-02",
+			"endDate": "2022-05-02"
+		}
+	],
+	"awards": [
+		{
+			"title": "Northwest CSIS T-Shirt Design Contest Winner",
+			"date": "2020-06-02",
+			"awarder": "School of Computer Science and Information Systems",
+			"summary": "Students were given twenty days to design a t-shirt that related to computer science. The winner would have their t-shirt printed and used by the university. My entry involved the use of generative typography."
+		}
+	],
+	"skills": [
+		{
+			"name": "Web Development",
+			"keywords": [
+				"React",
+				"Typescript",
+				"Tailwind",
+				"Next.js",
+				"JavaScript",
+				"HTML",
+				"CSS",
+				"SQL",
+				"Node.js",
+				"p5.js",
+				"THREE.js",
+				"SVG"
+			]
+		},
+		{
+			"name": "Design",
+			"keywords": ["Adobe Creative Cloud", "Figma", "Autodesk Fusion 360"]
+		},
+		{
+			"name": "Programming",
+			"keywords": ["Python", "GLSL"]
+		}
+	],
+	"interests": [
+		{
+			"name": "Art",
+			"keywords": ["Generative art", "Pen plotting", "Hobby sites"]
+		},
+		{
+			"name": "Music",
+			"keywords": ["Drums", "Guitar", "Keyboard"]
+		},
+		{
+			"name": "Fitness",
+			"keywords": ["Cycling", "Lifting"]
+		}
+	],
+	"projects": [
+		{
+			"name": "thispage",
+			"description": "A simple book club site",
+			"highlights": [
+				"Full-stack web app for book clubs featuring reading goals with automatic increments, discussion posts with nested comments, book polls, and notification emails",
+				"Generated book data using the Open Library API",
+				"Adheres to Semantic Versioning",
+				"Uses Gitflow workflow"
+			],
+			"keywords": [
+				"Next.js",
+				"Supabase",
+				"Auth",
+				"RLS",
+				"Edge Functions",
+				"Vercel",
+				"Resend",
+				"Zod",
+				"Tailwind",
+				"Gitflow"
+			],
+			"url": "https://thispa.ge/",
+			"startDate": "2024-05-07",
+			"type": "website"
+		},
+		{
+			"name": "Formatic Fobs",
+			"description": "Interactive generative art exhibit",
+			"highlights": [
+				"Real-time 3D printing of user-customized keychains through MIDI knobs",
+				"Experienced by hundreds of visitors at Art Blocks' Open House 2024"
+			],
+			"keywords": ["Next.js", "THREE.js", "Node.js", "Node SerialPort", "Web MIDI API"],
+			"startDate": "2024-11-15",
+			"endDate": "2024-11-15",
+			"entity": "Art Blocks",
+			"type": "exhibit"
+		},
+		{
+			"name": "Arcadia",
+			"description": "Long-form generative art project",
+			"highlights": [
+				"Created unifying algorithm that generated 256 unique digital art pieces",
+				"Project sold out in 30 minutes during a Dutch formatted auction",
+				"Generated $8,000 (at the time) in ETH to donate to the charity GiveDirectly"
+			],
+			"keywords": ["JavaScript", "p5.js", "GLSL"],
+			"url": "https://zchwtsn.com/work/arcadia",
+			"startDate": "2022-09-23",
+			"endDate": "2022-09-23",
+			"entity": "Art Blocks",
+			"type": "project"
+		}
+	],
+	"meta": {
+		"canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
+		"version": "v1.0.0",
+		"lastModified": "2017-12-24T15:53:00",
+		"theme": "jsonresume-theme-engineering"
+	}
+}
