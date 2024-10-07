@@ -51,7 +51,7 @@
 			"endDate": "2021-08-01",
 			"summary": "KMM Maryville is the primary General Purpose Engine production facility for Kawasaki. Their premium quality engines can be found in lawn and garden equipment produced by manufacturers across the industry.",
 			"highlights": [
-				"Created web-based program to improve extra parts packaging production",
+				"Developed web-based program to improve extra parts packaging production",
 				"Integrated program into existing ERP system while ensuring data traceability",
 				"Used Visual LANSA, JavaScript, CSS, and SQL",
 				"Learned how to apply existing knowledge to learn new coding languages",
@@ -68,8 +68,8 @@
 			"endDate": "2021-04-01",
 			"summary": "Knacktive is an interdisciplinary student-run, full-service agency with students from the School of Communication and Mass Media, the Melvin D. and Valorie G. Booth School of Business, the Department of Fine and Performing Arts, and the School of Computer Science and Information Systems.",
 			"highlights": [
-				"Created logo and brand identity for client using Adobe Illustrator, Photoshop, and Premiere",
-				"Created website mock-up using Adobe XD",
+				"Designed logo and brand identity for client using Adobe Illustrator, Photoshop, and Premiere",
+				"Drafted website mock-up using Adobe XD",
 				"Experienced competitive marketing process with seven other team members",
 				"Obtained ability to work as a team under deadlines"
 			]
@@ -117,7 +117,7 @@
 		},
 		{
 			"name": "Frameworks and Libraries",
-			"keywords": ["React", "Tailwind", "Next.js", "Node.js", "Express.js", "BullMQ", "ASP.NET"]
+			"keywords": ["React", "Tailwind", "Next.js", "Node.js", "Express.js", "ORMs (Prisma, Supabase)", "BullMQ", ".NET"]
 		},
 		{
 			"name": "Back-end",
@@ -181,7 +181,7 @@
 			"name": "Arcadia",
 			"description": "Long-form generative art project",
 			"highlights": [
-				"Created unifying algorithm that generated 256 unique digital art pieces",
+				"Composed unifying algorithm that generated 256 unique digital art pieces",
 				"Used JavaScript, p5.js and GLSL",
 				"Sold out in 30 minutes during a Dutch formatted auction",
 				"Generated $8,000 (at the time) in ETH to donate to the charity GiveDirectly"
