@@ -114,30 +114,34 @@
 	],
 	"skills": [
 		{
-			"name": "Web Development",
-			"keywords": ["HTML", "CSS", "Tailwind", "JavaScript", "Typescript", "SVG", "ASP.NET"]
+			"name": "Languages",
+			"keywords": ["TypeScript", "JavaScript", "HTML", "CSS", "SQL", "Python", "Arduino", "C#"]
 		},
 		{
-			"name": "JavaScript",
-			"keywords": ["React", "Next.js", "Node.js", "p5.js", "Canvas API", "THREE.js"]
+			"name": "Frameworks and Libraries",
+			"keywords": ["React", "Tailwind", "Next.js", "Node.js", "Express.js", "BullMQ", "ASP.NET"]
+		},
+		{
+			"name": "Back-end",
+			"keywords": ["PostgreSQL", "ER Modeling", "REST APIs", "Row-level Security"]
 		},
 		{
 			"name": "DevOps",
 			"keywords": ["Git", "Docker", "Prometheus", "Grafana", "Semantic Versioning", "Gitflow"]
 		},
 		{
-			"name": "Design",
-			"keywords": ["Adobe Creative Cloud", "Figma", "Autodesk Fusion 360"]
+			"name": "Graphics",
+			"keywords": ["p5.js", "Canvas API", "THREE.js", "React Three Fiber", "GLSL"]
 		},
 		{
-			"name": "Programming",
-			"keywords": ["Python", "GLSL", "C#"]
+			"name": "Design",
+			"keywords": ["Adobe Creative Cloud", "Figma", "Autodesk Fusion 360"]
 		}
 	],
 	"interests": [
 		{
 			"name": "Art/Design",
-			"keywords": ["Generative art", "Pen plotting", "3D Printing", "CAD", "Graphic Design"]
+			"keywords": ["Generative art", "Pen plotting", "3D printing", "CAD", "Graphic design"]
 		},
 		{
 			"name": "Music",
@@ -195,6 +199,6 @@
 		"canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
 		"version": "v1.0.0",
 		"lastModified": "2017-12-24T15:53:00",
-		"theme": "professional"
+		"theme": "profesh"
 	}
 }
