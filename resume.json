@@ -22,16 +22,6 @@
 				"network": "LinkedIn",
 				"username": "zachariahwatson",
 				"url": "https://linkedin.com/in/zachariahwatson"
-			},
-			{
-				"network": "X",
-				"username": "zchwtsn",
-				"url": "https://x.com/zchwtsn"
-			},
-			{
-				"network": "Instagram",
-				"username": "zchwtsn",
-				"url": "https://instagram.com/zchwtsn"
 			}
 		]
 	},
@@ -132,6 +122,10 @@
 			"keywords": ["React", "Next.js", "Node.js", "p5.js", "Canvas API", "THREE.js"]
 		},
 		{
+			"name": "DevOps",
+			"keywords": ["Git", "Docker", "Prometheus", "Grafana", "Semantic Versioning", "Gitflow"]
+		},
+		{
 			"name": "Design",
 			"keywords": ["Adobe Creative Cloud", "Figma", "Autodesk Fusion 360"]
 		},
@@ -187,7 +181,7 @@
 			"highlights": [
 				"Created unifying algorithm that generated 256 unique digital art pieces",
 				"Used JavaScript, p5.js and GLSL",
-				"Project sold out in 30 minutes during a Dutch formatted auction",
+				"Sold out in 30 minutes during a Dutch formatted auction",
 				"Generated $8,000 (at the time) in ETH to donate to the charity GiveDirectly"
 			],
 			"url": "https://zchwtsn.com/work/arcadia",
