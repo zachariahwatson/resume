@@ -6,6 +6,7 @@
 		"start": "node index.js"
 	},
 	"dependencies": {
+		"jsonresume-theme-profesh": "^0.2.0",
 		"puppeteer": "^23.5.0",
 		"resumed": "^3.0.0"
 	}
