@@ -1,13 +1,12 @@
 {
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "init": "resumed init",
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "jsonresume-theme-engineering": "^0.2.0",
-    "puppeteer": "^23.5.0",
-    "resumed": "^3.0.0"
-  }
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"init": "resumed init",
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"puppeteer": "^23.5.0",
+		"resumed": "^3.0.0"
+	}
 }
