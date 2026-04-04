@@ -98,8 +98,7 @@
 			"area": "Digital Media: Computer Science",
 			"studyType": "Bachelor of Science",
 			"score": "3.85",
-			"startDate": "2018-08-01",
-			"endDate": "2022-05-01"
+			"courses": ["Graphics Chair - Sigma Tau Gamma Fraternity"]
 		}
 	],
 	"awards": [
@@ -113,7 +112,7 @@
 	"skills": [
 		{
 			"name": "Languages",
-			"keywords": ["TypeScript", "JavaScript", "HTML", "CSS", "SQL", "Python", "Arduino", "C#"]
+			"keywords": ["TypeScript/TSX", "HTML", "CSS", "SQL", "Python", "Arduino", "C#"]
 		},
 		{
 			"name": "Frameworks and Libraries",
@@ -143,7 +142,7 @@
 		},
 		{
 			"name": "Music",
-			"keywords": ["Drums", "Guitar", "Keyboard", "Producing"]
+			"keywords": ["Drums", "Guitar", "Keyboard", "Production"]
 		},
 		{
 			"name": "Fitness",
@@ -172,7 +171,6 @@
 				"Experienced by hundreds of visitors at Art Blocks' Open House 2024"
 			],
 			"url": "https://github.com/zachariahwatson/formatic-fobs",
-			"startDate": "2024-11-15",
 			"endDate": "2024-11-15",
 			"entity": "Art Blocks",
 			"type": "exhibit"
@@ -186,8 +184,7 @@
 				"Sold out in 30 minutes during a Dutch formatted auction",
 				"Generated $8,000 (at the time) in ETH to donate to the charity GiveDirectly"
 			],
-			"url": "https://zchwtsn.com/work/arcadia",
-			"startDate": "2022-09-23",
+			"url": "https://www.artblocks.io/collection/arcadia-by-zachariah-watson",
 			"endDate": "2022-09-23",
 			"entity": "Art Blocks",
 			"type": "artwork"
